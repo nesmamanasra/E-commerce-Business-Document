@@ -13,5 +13,18 @@ An e-commerce application is a website that supports many functions, as this wor
  - Streamline the sales process and improve inventory management.
  - Increase sales through targeted marketing and personalized recommendations.
 
-### Features
+### Features of the project 
+we propose the following features for your e-commerce website:
+- user features :
+   - User Registration and Authentication
+   - User Profiles
+- Product Catalog:  Browse products by category, Product search with filters, Product details page (description, specifications, reviews, etc.)
+- Shopping Cart:  Add/remove products, Update Quantities, View cart summary
+- Checkout Process:
+- Order Management
+- Payment Integration
+- Reviews and Ratings
+- Analytics and Reporting
+- Content Management System (CMS)
+- Admin Panel: Admins have access to a dedicated panel to manage customer orders, change order statuses, and update product listings
 
