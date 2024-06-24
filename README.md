@@ -26,53 +26,107 @@ This document outlines proposed features, third-party integrations, technologies
  - Persistent cart (logged-in users)
 
 - Checkout Process
+   - Shipping information entry
+   - Payment gateway integration
+   - Order summary and confirmation
+
 - Order Management
-- Payment Integration
+   - Order tracking
+   - Order history
+   - Notifications for order status updates
+
+- User Profile Management
+  - View and edit personal details
+  - Address book
+  - Payment methods management
+
+- Admin Panel
+   - Product management (add/edit/delete products)
+   - Order management
+   - User management
+   - Analytics dashboard
+
 - Reviews and Ratings
-- Analytics and Reporting
-- Content Management System (CMS)
-- Admin Panel: Admins have access to a dedicated panel to manage customer orders, change order statuses, and update product listings
+   - User-generated reviews and ratings
+   - Review moderation by admin
+
+- Promotions and Discounts
+     - Coupon code application
+     - Special offers and deals
+
+### Nonfunctional Requirements:
+
+- Operational
+    - The system will run on any device or operating system. 
+    - The system can be used offline. 
+    - The system enables the user to write feedback.
+
+- Performance 
+    -  Any interaction between the user and the system should not exceed 2 seconds.
+    -  The system should be available for use 24 h/day, 365 day/year.
+
+### Security
+  - User information will be secured. 
+  -  Users can see their history.
+  -  The system includes all available safeguards from viruses, worms, Trojan horses, etc. 
+
+### Cultural and political
+  - The system is available in Arabic and other languages. 
+ -  Personal information is protected in compliance with the Data Protection Act. 
+                       
 ### Third-Party Integrations:
-To enhance the functionality of your e-commerce website, we propose the integration
-of the following third-party services:
-- Payment gateway integration (e.g., PayPal, Stripe)
-- Shipping and logistics integration (e.g., UPS, FedEx)
-- Email marketing service integration (e.g., Mailchimp)
-- Analytics and tracking tools (e.g., Google Analytics)
+- Payment Gateways
+  - Stripe
+  - PayPal
+  - Square
+- Shipping Providers
+  -  FedEx API
+  -  UPS API
+  -  DHL API
+- Email and SMS Notifications
+  - SendGrid (email)
+  -  Twilio (SMS)
+- Analytics and Tracking
+  - Google Analytics
+  - Facebook Pixel
+- Social Media
+  - Facebook
+  - Instagram
+  - Twitter
+   
+### Technologies Used:
+ - Frontend
+     - React.js for building dynamic and responsive UI
+     - Redux for state management
+     - Tailwind CSS for styling
+- Backend
+    -  Node.js with Express.js for building the server-side application
+    -  MongoDB as the database
+    -  Mongoose for object data modeling (ODM)
+    -  JWT for authentication
+- Hosting and Deployment
+    -  AWS (Amazon Web Services)
+    -  Docker for containerization
+    -  CI/CD pipeline setup with Jenkins/GitHub Actions
 
-### Technologies:
-To implement the features and ensure a scalable and efficient e-commerce website, we
-recommend the use of the following technologies:
-- Programming languages: JavaScript, Typescript
-- Web framework: Express JS
-- Front-end development: HTML5, CSS3, JavaScript, React.js
-- Database: PostgreSQL
-- Payment gateway integration: API integration (e.g., PayPal API, Stripe API)
-- Shipping and logistics integration: API integration (e.g., UPS API, FedEx API)
-- Hosting: Amazon Web Services (AWS) or Microsoft Azure
-### Time Estimation:
-
-Based on our initial assessment, we estimate the development timeline for your e-
-commerce website as follows:
-
-- Requirements gathering and analysis: 1 week
-- Design and prototyping: 2 weeks
-- Front-end development: 4 weeks
-- Back-end development and integration: 6 weeks
-- Testing and quality assurance: 2 weeks
-- Deployment and post-launch support: 1 week
-Just so you know, the above estimates may vary based on the complexity of the project
-and any additional features or customizations requested during the development
-process.
 ### Delivery Methodology:
+The project will leverage the Agile methodology, with a focus on Extreme Programming (XP), to prioritize customer satisfaction and teamwork. XP emphasizes core values such as communication, simplicity, feedback, and courage. This approach ensures continuous collaboration between developers, customers, and fellow programmers, promoting clear and effective communication. Early and frequent testing will be conducted throughout the development process, enabling prompt feedback and iterative improvements.
 
-We propose adopting an Agile delivery methodology for the development of your e-
-commerce website. This approach will allow for iterative development, regular
 
-feedback, and incremental feature delivery. We will organize the project into sprints,
-each lasting 2 to 3 weeks. In the development process, we will
-keep open lines of communication to make sure you are happy with the project's
-progress.
+
+![srs](https://github.com/nesmamanasra/E-commerce-Business-Document/assets/52491098/fec370e2-1fc3-4683-8433-d60177fea16d)
+
+
+### Estimated Timeline:
+The project will be developed over 7 months, broken down as follows:
+   - Planning and Requirements Gathering (2 weeks)
+   - Design Phase (4 weeks)
+   -  Development Phase (16 weeks)
+   -  Testing Phase (4 weeks)
+   -  Deployment and Go-Live (2 weeks)
+
+### Conclusion:
+This proposal outlines a comprehensive plan to develop a modern, scalable, and user-friendly e-commerce website. By leveraging the latest technologies and following Agile methodologies, we ensure a flexible and efficient development process. The detailed timeline and structured approach will help in delivering a high-quality product that meets all client requirements.
 
 ### Top Ecommerce Website Previews
 
