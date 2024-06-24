@@ -34,3 +34,14 @@ of the following third-party services:
 - Shipping and logistics integration (e.g., UPS, FedEx)
 - Email marketing service integration (e.g., Mailchimp)
 - Analytics and tracking tools (e.g., Google Analytics)
+
+### Technologies:
+To implement the features and ensure a scalable and efficient e-commerce website, we
+recommend the use of the following technologies:
+- Programming languages: JavaScript, Typescript
+- Web framework: Express JS
+- Front-end development: HTML5, CSS3, JavaScript, React.js
+- Database: PostgreSQL
+- Payment gateway integration: API integration (e.g., PayPal API, Stripe API)
+- Shipping and logistics integration: API integration (e.g., UPS API, FedEx API)
+- Hosting: Amazon Web Services (AWS) or Microsoft Azure
