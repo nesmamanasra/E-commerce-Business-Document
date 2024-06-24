@@ -71,14 +71,11 @@ progress.
 
 ### Top Ecommerce Website Previews
 
-- https://preview.themeforest.net/item/ella-multipurpose-shopify-theme-os-
-20/full_screen_preview/9691007?_ga=2.67232721.1529005997.1718033275-1892291067.1705352728
+- https://preview.themeforest.net/item/ella-multipurpose-shopify-theme-os
 
-- https://preview.themeforest.net/item/journal-advanced-opencart-
-theme/full_screen_preview/4260361?_ga=2.67232721.1529005997.1718033275-1892291067.1705352728
+- https://preview.themeforest.net/item/journal-advanced-opencart
 
-- https://preview.themeforest.net/item/porto-ultimate-responsive-magento-
-theme/full_screen_preview/9725864?_ga=2.67232721.1529005997.1718033275-1892291067.1705352728
+- https://preview.themeforest.net/item/porto-ultimate-responsive-magento
 
 - https://the7.io/elementor-product/ 
 
