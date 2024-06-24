@@ -68,3 +68,28 @@ feedback, and incremental feature delivery. We will organize the project into sp
 each lasting 2 to 3 weeks. In the development process, we will
 keep open lines of communication to make sure you are happy with the project's
 progress.
+
+### Top Ecommerce Website Previews
+
+- https://preview.themeforest.net/item/ella-multipurpose-shopify-theme-os-
+20/full_screen_preview/9691007?_ga=2.67232721.1529005997.1718033275-1892291067.1705352728
+
+- https://preview.themeforest.net/item/journal-advanced-opencart-
+theme/full_screen_preview/4260361?_ga=2.67232721.1529005997.1718033275-1892291067.1705352728
+
+- https://preview.themeforest.net/item/porto-ultimate-responsive-magento-
+theme/full_screen_preview/9725864?_ga=2.67232721.1529005997.1718033275-1892291067.1705352728
+
+- https://the7.io/elementor-product/ 
+
+-  https://the7.io/elementor-coffee/ 
+
+- https://websitedemos.net/furniture-shop-04/?customize=template 
+
+- https://www.wix.com/website-template/view/html/2949?originUrl=https%3A%2F%2Fwww.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fonline-store&tpClick=view_button&esi=40f203aa-7683-4e56-874a-7b584971b5f7
+
+- https://sb-clickboom.mybigcommerce.com/
+
+- https://sb-emarket.mybigcommerce.com/
+
+- https://new-ella-demo.myshopify.com/?fts=0
