@@ -130,12 +130,6 @@ This proposal outlines a comprehensive plan to develop a modern, scalable, and u
 
 ### Top Ecommerce Website Previews
 
-- https://preview.themeforest.net/item/ella-multipurpose-shopify-theme-os
-
-- https://preview.themeforest.net/item/journal-advanced-opencart
-
-- https://preview.themeforest.net/item/porto-ultimate-responsive-magento
-
 - https://the7.io/elementor-product/ 
 
 -  https://the7.io/elementor-coffee/ 
